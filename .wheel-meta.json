@@ -1,0 +1,22 @@
+{
+  "wheel_id": 543,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-105",
+  "project": "mortgage-brokers-ipswich-signs-you-need-79aeb1675a05ba2dd6b2364",
+  "parent_t1_ref": "homeloanbrokeripswich-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage brokers ipswich signs you need",
+  "intended_url": "https://sitesau.github.io/homeloanbrokeripswich-105/",
+  "tier": "T2",
+  "writeback_nonce": "089caa5ac2058507",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/mortgage-brokers-ipswich-b3d1a843644ef5670f0959a8f7e1ba3025d/",
+      "anchor": "Mortgage Brokers Ipswich: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
